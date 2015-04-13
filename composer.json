@@ -1,7 +1,6 @@
 {
     "name": "marsianin/yii2-geoip",
     "type": "yii2-extension",
-
     "description": "Geo IP integration for the Yii framework",
     "keywords": ["yii2", "helper"],
     "license": "BSD-3-Clause",
@@ -15,7 +14,7 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "*",
+        "yiisoft/yii2": "*"
     },
     "autoload": {
         "psr-4": {
