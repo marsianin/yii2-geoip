@@ -1,0 +1,33 @@
+{
+    // package name
+    "name": "yiisoft/yii2-geoip",
+
+    // package type
+    "type": "yii2-extension",
+
+    "description": "Geo IP integration for the Yii framework",
+    "keywords": ["yii2", "helper"],
+    "license": "BSD-3-Clause",
+    "support": {
+        "source": "https://github.com/yiisoft/yii2"
+    },
+    "authors": [
+        {
+            "name": "Antonio Ramirez",
+            "email": "amigo.cobos@gmail.com"
+        }
+    ],
+
+    // package dependencies
+    "require": {
+        "yiisoft/yii2": "*",
+        "imagine/imagine": "v0.5.0"
+    },
+
+    // class autoloading specs
+    "autoload": {
+        "psr-4": {
+            "yii\\imagine\\": ""
+        }
+    }
+}
