@@ -10,24 +10,23 @@
     "license": "BSD-3-Clause",
     "support": {
         "source": "https://github.com/yiisoft/yii2"
-    },
+ s   },
     "authors": [
         {
-            "name": "Antonio Ramirez",
-            "email": "amigo.cobos@gmail.com"
+            "name": "Rinat Takhautdinov",
+            "email": "rinat.takhautdinov@gmail.com"
         }
     ],
 
     // package dependencies
     "require": {
         "yiisoft/yii2": "*",
-        "imagine/imagine": "v0.5.0"
     },
 
     // class autoloading specs
     "autoload": {
         "psr-4": {
-            "yii\\imagine\\": ""
+            "yii\\geoip\\": ""
         }
     }
 }
