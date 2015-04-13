@@ -1,6 +1,6 @@
 <?php
 
-namespace marsianin\GeoIP;
+namespace GeoIP;
 
 /**
  * Class GeoIPWrapper
