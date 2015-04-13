@@ -1,5 +1,5 @@
 <?php
-namespace yii2\GeoIP;
+namespace marsianin\GeoIP;
 
 /**
  * Class GeoIPPosition
