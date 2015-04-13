@@ -1,5 +1,5 @@
 {
-    "name": "yiisoft/yii2-geoip",
+    "name": "marsianin/yii2-geoip",
     "type": "yii2-extension",
 
     "description": "Geo IP integration for the Yii framework",
