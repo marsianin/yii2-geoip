@@ -1,8 +1,5 @@
 {
-    // package name
     "name": "yiisoft/yii2-geoip",
-
-    // package type
     "type": "yii2-extension",
 
     "description": "Geo IP integration for the Yii framework",
@@ -17,16 +14,12 @@
             "email": "rinat.takhautdinov@gmail.com"
         }
     ],
-
-    // package dependencies
     "require": {
         "yiisoft/yii2": "*",
     },
-
-    // class autoloading specs
     "autoload": {
         "psr-4": {
-            "yii\\geoip\\": ""
+            "marsianin\\yii2-geoip\\": ""
         }
     }
 }
