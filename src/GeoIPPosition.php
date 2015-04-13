@@ -1,5 +1,5 @@
 <?php
-namespace marsianin\GeoIP;
+namespace GeoIP;
 
 /**
  * Class GeoIPPosition
