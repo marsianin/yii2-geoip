@@ -17,8 +17,6 @@
         "yiisoft/yii2": "*"
     },
     "autoload": {
-        "psr-4": {
-            "marsianin\\yii2-geoip\\": ""
-        }
+	"psr-0": { "marsianin\GeoIP": "/src" }
     }
 }
